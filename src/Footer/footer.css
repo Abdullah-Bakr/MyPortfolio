@@ -1,0 +1,28 @@
+.footer {
+  background-color: #212529;
+  color: white;
+  padding: 30px 40px 10px 40px;
+}
+.footer .foot {
+  display: flex;
+  justify-content: space-between;
+}
+
+.foot .icons .icon {
+  margin-right: 20px;
+  font-size: 20px;
+  transition: 0.5s;
+  padding: 5px;
+  color: #0fc2c0 !important;
+}
+.foot .icons .icon:hover {
+  color: #e8c50e !important;
+}
+@media (max-width: 450px) {
+  .footer {
+    padding: 20px 10px;
+  }
+  .foot .icons .icon {
+    margin-right: 5px;
+  }
+}

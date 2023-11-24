@@ -1,0 +1,61 @@
+.skills {
+  background-image: url(../blake-connally-IKUYGCFmfw4-unsplash.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 100px;
+}
+
+.skills .title {
+  letter-spacing: 4px;
+  margin: 0px auto;
+  text-align: center;
+  background-color: #015958;
+  width: fit-content;
+  padding: 15px 40px;
+  color: white;
+
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 0.5s;
+  border: 3px solid transparent;
+}
+.skills .title:hover {
+  border: 3px solid #015958;
+  background-color: white;
+  color: black;
+}
+.skills .sub-title {
+  font-size: 30px;
+  font-weight: 500;
+  text-align: center;
+  color: white;
+  margin: 30px auto;
+}
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 20px;
+}
+.card {
+  text-align: center;
+  padding: 20px;
+  background-color: #015958;
+  color: white;
+  transition: 0.5s;
+}
+.card h4 {
+  margin: 15px 0;
+}
+.card p {
+  font-size: 16px;
+  color: rgb(191, 188, 188);
+}
+.card .icon {
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+.card .icon:hover {
+  transform: scale(1.25);
+}
