@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio/static/css/main.dc95c411.css",
+    "main.js": "/MyPortfolio/static/js/main.47478c8e.js",
+    "static/media/blake-connally-IKUYGCFmfw4-unsplash.jpg": "/MyPortfolio/static/media/blake-connally-IKUYGCFmfw4-unsplash.1be7ae0f28e7c4ef779d.jpg",
+    "static/media/Hand coding-amico (1).png": "/MyPortfolio/static/media/Hand coding-amico (1).f812c10c34652f92cbb6.png",
+    "static/media/Code typing-bro (1).png": "/MyPortfolio/static/media/Code typing-bro (1).527f0dbb3a7cbe7b7434.png",
+    "static/media/weather.png": "/MyPortfolio/static/media/weather.abb57394714a99be456f.png",
+    "static/media/shoes.png": "/MyPortfolio/static/media/shoes.2e097e020f28b327eaf5.png",
+    "static/media/space.png": "/MyPortfolio/static/media/space.bb326f98ef3b540d2c21.png",
+    "static/media/abd.png": "/MyPortfolio/static/media/abd.770ddffba9af2f445ed8.png",
+    "static/media/landing-page.png": "/MyPortfolio/static/media/landing-page.183f2a1937224b2888a5.png",
+    "static/media/Abdullah-front-end.pdf": "/MyPortfolio/static/media/Abdullah-front-end.5801caaaad835de44c25.pdf",
+    "static/media/todo.png": "/MyPortfolio/static/media/todo.0fb3a4e549e7e73a49e7.png",
+    "static/media/age.png": "/MyPortfolio/static/media/age.805d9a446b8571745ef3.png",
+    "static/media/typescript-official-svgrepo-com.svg": "/MyPortfolio/static/media/typescript-official-svgrepo-com.3ca8a525abd0f8887aae0089dc4ed25c.svg",
+    "static/media/tailwindcss-icon.svg": "/MyPortfolio/static/media/tailwindcss-icon.017e1e304e12384d156d384f40a4b5f8.svg",
+    "index.html": "/MyPortfolio/index.html",
+    "main.dc95c411.css.map": "/MyPortfolio/static/css/main.dc95c411.css.map",
+    "main.47478c8e.js.map": "/MyPortfolio/static/js/main.47478c8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc95c411.css",
+    "static/js/main.47478c8e.js"
+  ]
+}
