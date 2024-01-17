@@ -8,6 +8,7 @@ import space from "../space.png";
 import weather from "../weather.png";
 import shoes from "../shoes.png";
 import age from "../age.png";
+import cats from "../cat.png";
 
 function Portfolio() {
   return (
@@ -16,6 +17,24 @@ function Portfolio() {
         <h1 className="title">PORTFOLIO</h1>
         <p className="sub-title">My Projects</p>
         <div className="cards" data-aos="fade-up">
+          <div className="card">
+            <div className="icon">
+              <img src={cats} alt="" />
+            </div>
+            <h4>E-Commerce</h4>
+            <p>
+              Indulge your feline companions with our cat-centric ecommerce
+              haven, offering premium foods, stylish accessories, and a seamless
+              shopping experience. Elevate your cat's lifestyle effortlessly
+            </p>
+            <a
+              href="https://abdullah-bakr.github.io/E-commerce-Cat/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Take a Look
+            </a>
+          </div>
           <div className="card">
             <div className="icon">
               <img src={todo} alt="" />
